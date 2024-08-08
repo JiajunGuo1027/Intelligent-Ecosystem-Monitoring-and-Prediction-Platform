@@ -1,4 +1,4 @@
-# Intelligent-ecosystem-monitoring-and-prediction-platform
+# Intelligent Ecosystem Monitoring And Prediction Platform
 
 ## Project Overview
 
