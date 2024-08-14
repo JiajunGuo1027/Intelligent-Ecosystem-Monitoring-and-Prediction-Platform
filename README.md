@@ -1,4 +1,4 @@
-# Intelligent Ecosystem Monitoring and Prediction Platform
+# Edge AI Weather Forecasting System Development Using Sony Spresense
 
 ## Project Overview
 
